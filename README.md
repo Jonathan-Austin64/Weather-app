@@ -5,7 +5,7 @@ In this homework assignment I used the Open Weather Map api to created a Weather
 ![Weather Map](/img/weather-map.png)
 
 ## Instructions
-* Ender the name of the city you would like to see the weather of.
+* Enter the name of the city you would like to see the weather of.
 * Hit the search button
 * Enjoy knowing the weather
 
