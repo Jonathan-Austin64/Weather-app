@@ -12,9 +12,9 @@ In this homework assignment I used the Open Weather Map api to created a Weather
 ## Built With
 HTML  
 CSS  
-JavaScript
-Jquery
-BootStrap   
+JavaScript  
+Jquery  
+BootStrap    
 
 ## Author
 Jonathan Austin
